@@ -1,0 +1,15 @@
+/Users/austinhale/Desktop/Objectiew/Hangman/bin/Debug/net7.0/Hangman
+/Users/austinhale/Desktop/Objectiew/Hangman/bin/Debug/net7.0/Hangman.deps.json
+/Users/austinhale/Desktop/Objectiew/Hangman/bin/Debug/net7.0/Hangman.runtimeconfig.json
+/Users/austinhale/Desktop/Objectiew/Hangman/bin/Debug/net7.0/Hangman.dll
+/Users/austinhale/Desktop/Objectiew/Hangman/bin/Debug/net7.0/Hangman.pdb
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.csproj.AssemblyReference.cache
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfoInputs.cache
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfo.cs
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.dll
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/refint/Hangman.dll
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.pdb
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/Hangman.genruntimeconfig.cache
+/Users/austinhale/Desktop/Objectiew/Hangman/obj/Debug/net7.0/ref/Hangman.dll

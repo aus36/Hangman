@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LogBook>
+  <Games>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T19:33:05.965224-06:00</DateTimePlayed>
+      <Phrase>the grass is always greener on the other side</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T20:56:50.838053-06:00</DateTimePlayed>
+      <Phrase>a penny saved is a penny earned</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T21:18:52.762191-06:00</DateTimePlayed>
+      <Phrase>a watched pot never boils</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T21:27:29.478127-06:00</DateTimePlayed>
+      <Phrase>actions speak louder than words</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T23:04:56.022125-06:00</DateTimePlayed>
+      <Phrase>the early bird catches the worm</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T23:06:52.471412-06:00</DateTimePlayed>
+      <Phrase>over the rainbow</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+    <Game>
+      <PlayerName>Austin</PlayerName>
+      <DateTimePlayed>2023-02-28T23:31:01.075675-06:00</DateTimePlayed>
+      <Phrase>a penny saved is a penny earned</Phrase>
+      <WonFlag>false</WonFlag>
+    </Game>
+  </Games>
+  <Stats>
+    <Player>
+      <Name>Austin</Name>
+      <GamesWon>0</GamesWon>
+      <GamesLost>1</GamesLost>
+      <WinningPercentage>0</WinningPercentage>
+    </Player>
+    <Player>
+      <Name>Austin</Name>
+      <GamesWon>0</GamesWon>
+      <GamesLost>1</GamesLost>
+      <WinningPercentage>0</WinningPercentage>
+    </Player>
+  </Stats>
+</LogBook>
